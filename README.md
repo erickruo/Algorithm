@@ -3,16 +3,16 @@
 <hr>
 <p> An Android app built with News API to help get the current news to have current information of the trending, popular, upcoming, on air and many other news particuularly of U.S.A.  It also helps users search for that show that they have heard about it and they are not sure about it.</p>
 
-*** Documentation***
+***Documentation
 
 <p>News API is a simple HTTP REST API for searching and retrieving live articles from all over the web. It can help you answer questions like:</p>
 
-      >What top stories is TechCrunch running right now?<br/>
-      >What new articles were published about the next iPhone today?<br/>
-      >Has my company or product been mentioned or reviewed by any blogs recently?<br/>
+      > What top stories is TechCrunch running right now?<br/>
+      > What new articles were published about the next iPhone today?<br/>
+      > Has my company or product been mentioned or reviewed by any blogs recently?<br/>
  
 <p> You can search for articles with any combination of the following criteria:</p><br/>
-     >*** Keyword or phrase*** Eg: find all articles containing the word 'Microsoft'<br/>.
+     > *** Keyword or phrase *** Eg: find all articles containing the word 'Microsoft'<br/>.
      >*** Date published*** Eg: find all articles published yesterday.<br/>
      >*** Source domain name*** Eg: find all articles published on thenextweb.com.<br/>
      >*** Language*** Eg: find all articles written in English.<br/>
