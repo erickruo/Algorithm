@@ -3,7 +3,7 @@
 <hr>
 <p> An Android app built with News API to help get the current news to have current information of the trending, popular, upcoming, on air and many other news particuularly of U.S.A.  It also helps users search for that show that they have heard about it and they are not sure about it.</p>
 
-***Documentation
+<b>Documentation</b>
 
 <p>News API is a simple HTTP REST API for searching and retrieving live articles from all over the web. It can help you answer questions like:</p>
 
@@ -26,13 +26,13 @@
 <br/>
       
 2. <br/>
-*** Bussiness new s***
-      ![bs](https://user-images.githubusercontent.com/108327890/199043350-6a6345a8-8590-488e-9073-0ce0a6b41362.jpg)
+<b>Bussiness news</b>
+![bs](https://user-images.githubusercontent.com/108327890/199043350-6a6345a8-8590-488e-9073-0ce0a6b41362.jpg)
 <br/>
-3.Entertainment News
+3.<b>Entertainment News</b>
 <br/>
 ![entertainment](https://user-images.githubusercontent.com/108327890/199045932-5ea38ec6-557b-47dd-bf3f-75eea01f71bf.jpg)
 <br/>
-4.General news <br/>
+4.<b>General news</b> <br/>
 ![general](https://user-images.githubusercontent.com/108327890/199046078-eda44fac-e4a1-48bf-a69b-908087ee5df7.jpg)
 
