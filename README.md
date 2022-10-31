@@ -4,7 +4,13 @@
 <h4> An Android app built with News.org consuming  API to help get the current news to have current information of the trending, popular, upcoming, on air and many other news particuularly of U.S.A.  It also helps users search for that show that they have heard about it and they are not sure about it.</h4>
 <hr
 <p>The application is built using Java programming language
-**Demo
+***Demo***
       
-1.![one](https://user-images.githubusercontent.com/108327890/199040559-eafdc20d-bed6-415b-9241-ce408e3de74c.jpg)
-2.![two](https://user-images.githubusercontent.com/108327890/199040712-8ec19ad0-d75a-47b6-8b06-0227016bc6fd.jpg)
+1.<p> You can search news of your interest.
+<br/>
+![one](https://user-images.githubusercontent.com/108327890/199040559-eafdc20d-bed6-415b-9241-ce408e3de74c.jpg)
+<br/>
+      
+2. <br/>
+***Bussiness news***
+      ![bs](https://user-images.githubusercontent.com/108327890/199043350-6a6345a8-8590-488e-9073-0ce0a6b41362.jpg)
