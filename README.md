@@ -7,9 +7,9 @@
 
 <p>News API is a simple HTTP REST API for searching and retrieving live articles from all over the web. It can help you answer questions like:</p>
 
-      > What top stories is TechCrunch running right now?<br/>
-      > What new articles were published about the next iPhone today?<br/>
-      > Has my company or product been mentioned or reviewed by any blogs recently?<br/>
+      > What top stories is TechCrunch running right now?
+      > What new articles were published about the next iPhone today?
+      > Has my company or product been mentioned or reviewed by any blogs recently?
  
 <p> You can search for articles with any combination of the following criteria:</p><br/>
      > *** Keyword or phrase *** Eg: find all articles containing the word 'Microsoft'<br/>.
