@@ -11,16 +11,16 @@
           What new articles were published about the next iPhone today?
           as my company or product been mentioned or reviewed by any blogs recently?
  
-<p> You can search for articles with any combination of the following criteria:</p><br/>
-             <b> Keyword or phrase.</b> Eg: find all articles containing the word 'Microsoft'.
-             <b>  Date published.</b> Eg: find all articles published yesterday.
-              <b>Source domain name.</b> Eg: find all articles published on thenextweb.com.
-              <b>Language.</b> Eg: find all articles written in English.
+<p> You can search for articles with any combination of the following criteria:</p></br>
+             <b> Keyword or phrase.</b> Eg: find all articles containing the word 'Microsoft'.</br>
+             <b>  Date published.</b> Eg: find all articles published yesterday.</br>
+              <b>Source domain name.</b> Eg: find all articles published on thenextweb.com.</br>
+              <b>Language.</b> Eg: find all articles written in English.</br>
 
-<p>The application is built using Java programming language
-      <b> Demo</b>
+<p>The application is built using Java programming language</br>
+      <b> Demo</b></br>
       
-1.<p> You can search news of your interest.</p>
+1.<p> You can search news of your interest.</p></br>
 
  ![fetch](https://user-images.githubusercontent.com/108327890/199043936-5d75d661-ed13-4313-b52c-3e06513c6ece.jpg)    
 
