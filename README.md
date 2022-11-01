@@ -26,13 +26,13 @@
 
       
 2.
-<b>Bussiness news</b>
+<b>Bussiness news</b></br>
 ![bs](https://user-images.githubusercontent.com/108327890/199043350-6a6345a8-8590-488e-9073-0ce0a6b41362.jpg)
 
-3.<b>Entertainment News</b>
+3.<b>Entertainment News</b></br>
 
 ![entertainment](https://user-images.githubusercontent.com/108327890/199045932-5ea38ec6-557b-47dd-bf3f-75eea01f71bf.jpg)
 
-4.<b>General news</b> 
+4.<b>General news</b> </br>
 ![general](https://user-images.githubusercontent.com/108327890/199046078-eda44fac-e4a1-48bf-a69b-908087ee5df7.jpg)
 
